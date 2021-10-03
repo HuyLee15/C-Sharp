@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Documents\C#\Tuần 1\Demo_console\bin\Debug\net5.0\Demo_consle.exe
+C:\Users\ADMIN\Documents\C#\Tuần 1\Demo_console\bin\Debug\net5.0\Demo_consle.deps.json
+C:\Users\ADMIN\Documents\C#\Tuần 1\Demo_console\bin\Debug\net5.0\Demo_consle.runtimeconfig.json
+C:\Users\ADMIN\Documents\C#\Tuần 1\Demo_console\bin\Debug\net5.0\Demo_consle.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\C#\Tuần 1\Demo_console\bin\Debug\net5.0\Demo_consle.dll
+C:\Users\ADMIN\Documents\C#\Tuần 1\Demo_console\bin\Debug\net5.0\ref\Demo_consle.dll
+C:\Users\ADMIN\Documents\C#\Tuần 1\Demo_console\bin\Debug\net5.0\Demo_consle.pdb
+C:\Users\ADMIN\Documents\C#\Tuần 1\Demo_console\obj\Debug\net5.0\Demo_consle.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\C#\Tuần 1\Demo_console\obj\Debug\net5.0\Demo_consle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\C#\Tuần 1\Demo_console\obj\Debug\net5.0\Demo_consle.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\C#\Tuần 1\Demo_console\obj\Debug\net5.0\Demo_consle.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\C#\Tuần 1\Demo_console\obj\Debug\net5.0\Demo_consle.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\C#\Tuần 1\Demo_console\obj\Debug\net5.0\Demo_consle.dll
+C:\Users\ADMIN\Documents\C#\Tuần 1\Demo_console\obj\Debug\net5.0\ref\Demo_consle.dll
+C:\Users\ADMIN\Documents\C#\Tuần 1\Demo_console\obj\Debug\net5.0\Demo_consle.pdb
+C:\Users\ADMIN\Documents\C#\Tuần 1\Demo_console\obj\Debug\net5.0\Demo_consle.genruntimeconfig.cache

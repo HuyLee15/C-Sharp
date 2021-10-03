@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\Mang\bin\Debug\net5.0\Mang.exe
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\Mang\bin\Debug\net5.0\Mang.deps.json
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\Mang\bin\Debug\net5.0\Mang.runtimeconfig.json
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\Mang\bin\Debug\net5.0\Mang.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\Mang\bin\Debug\net5.0\Mang.dll
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\Mang\bin\Debug\net5.0\ref\Mang.dll
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\Mang\bin\Debug\net5.0\Mang.pdb
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\Mang\obj\Debug\net5.0\Mang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\Mang\obj\Debug\net5.0\Mang.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\Mang\obj\Debug\net5.0\Mang.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\Mang\obj\Debug\net5.0\Mang.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\Mang\obj\Debug\net5.0\Mang.dll
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\Mang\obj\Debug\net5.0\ref\Mang.dll
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\Mang\obj\Debug\net5.0\Mang.pdb
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\Mang\obj\Debug\net5.0\Mang.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HinhChuNhat</id>
+    <version>1.0.0</version>
+    <authors>HinhChuNhat</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ADMIN\Documents\C#\Tuần 2\BT trên lớp\Bai2\HinhChuNhat\bin\Debug\net5.0\HinhChuNhat.runtimeconfig.json" target="lib\net5.0\HinhChuNhat.runtimeconfig.json" />
+    <file src="C:\Users\ADMIN\Documents\C#\Tuần 2\BT trên lớp\Bai2\HinhChuNhat\bin\Debug\net5.0\HinhChuNhat.dll" target="lib\net5.0\HinhChuNhat.dll" />
+  </files>
+</package>

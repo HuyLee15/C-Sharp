@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Documents\C#\Tuần 1\BaiTap\CSharpCanBan\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.exe
+C:\Users\ADMIN\Documents\C#\Tuần 1\BaiTap\CSharpCanBan\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.deps.json
+C:\Users\ADMIN\Documents\C#\Tuần 1\BaiTap\CSharpCanBan\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.runtimeconfig.json
+C:\Users\ADMIN\Documents\C#\Tuần 1\BaiTap\CSharpCanBan\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\C#\Tuần 1\BaiTap\CSharpCanBan\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.dll
+C:\Users\ADMIN\Documents\C#\Tuần 1\BaiTap\CSharpCanBan\XepLoaiHS\bin\Debug\net5.0\ref\XepLoaiHS.dll
+C:\Users\ADMIN\Documents\C#\Tuần 1\BaiTap\CSharpCanBan\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.pdb
+C:\Users\ADMIN\Documents\C#\Tuần 1\BaiTap\CSharpCanBan\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\C#\Tuần 1\BaiTap\CSharpCanBan\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\C#\Tuần 1\BaiTap\CSharpCanBan\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\C#\Tuần 1\BaiTap\CSharpCanBan\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\C#\Tuần 1\BaiTap\CSharpCanBan\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.dll
+C:\Users\ADMIN\Documents\C#\Tuần 1\BaiTap\CSharpCanBan\XepLoaiHS\obj\Debug\net5.0\ref\XepLoaiHS.dll
+C:\Users\ADMIN\Documents\C#\Tuần 1\BaiTap\CSharpCanBan\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.pdb
+C:\Users\ADMIN\Documents\C#\Tuần 1\BaiTap\CSharpCanBan\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\C#\Tuần 1\BaiTap\CSharpCanBan\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\TapTin\bin\Debug\net5.0\TapTin.exe
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\TapTin\bin\Debug\net5.0\TapTin.deps.json
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\TapTin\bin\Debug\net5.0\TapTin.runtimeconfig.json
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\TapTin\bin\Debug\net5.0\TapTin.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\TapTin\bin\Debug\net5.0\TapTin.dll
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\TapTin\bin\Debug\net5.0\ref\TapTin.dll
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\TapTin\bin\Debug\net5.0\TapTin.pdb
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\TapTin\obj\Debug\net5.0\TapTin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\TapTin\obj\Debug\net5.0\TapTin.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\TapTin\obj\Debug\net5.0\TapTin.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\TapTin\obj\Debug\net5.0\TapTin.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\TapTin\obj\Debug\net5.0\TapTin.dll
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\TapTin\obj\Debug\net5.0\ref\TapTin.dll
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\TapTin\obj\Debug\net5.0\TapTin.pdb
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\TapTin\obj\Debug\net5.0\TapTin.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\CuuChuong\bin\Debug\net5.0\CuuChuong.exe
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\CuuChuong\bin\Debug\net5.0\CuuChuong.deps.json
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\CuuChuong\bin\Debug\net5.0\CuuChuong.runtimeconfig.json
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\CuuChuong\bin\Debug\net5.0\CuuChuong.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\CuuChuong\bin\Debug\net5.0\CuuChuong.dll
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\CuuChuong\bin\Debug\net5.0\ref\CuuChuong.dll
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\CuuChuong\bin\Debug\net5.0\CuuChuong.pdb
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\CuuChuong\obj\Debug\net5.0\CuuChuong.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\CuuChuong\obj\Debug\net5.0\CuuChuong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\CuuChuong\obj\Debug\net5.0\CuuChuong.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\CuuChuong\obj\Debug\net5.0\CuuChuong.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\CuuChuong\obj\Debug\net5.0\CuuChuong.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\CuuChuong\obj\Debug\net5.0\CuuChuong.dll
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\CuuChuong\obj\Debug\net5.0\ref\CuuChuong.dll
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\CuuChuong\obj\Debug\net5.0\CuuChuong.pdb
+C:\Users\ADMIN\Documents\C#\Tuần 3\Bai3\CuuChuong\obj\Debug\net5.0\CuuChuong.genruntimeconfig.cache
