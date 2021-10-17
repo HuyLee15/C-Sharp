@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Documents\C#\Tuần 5\LeVanHuy_2019602429_proj51\LeVanHuy_2019602429_proj51\bin\Debug\net5.0\LeVanHuy_2019602429_proj51.exe
+C:\Users\ADMIN\Documents\C#\Tuần 5\LeVanHuy_2019602429_proj51\LeVanHuy_2019602429_proj51\bin\Debug\net5.0\LeVanHuy_2019602429_proj51.deps.json
+C:\Users\ADMIN\Documents\C#\Tuần 5\LeVanHuy_2019602429_proj51\LeVanHuy_2019602429_proj51\bin\Debug\net5.0\LeVanHuy_2019602429_proj51.runtimeconfig.json
+C:\Users\ADMIN\Documents\C#\Tuần 5\LeVanHuy_2019602429_proj51\LeVanHuy_2019602429_proj51\bin\Debug\net5.0\LeVanHuy_2019602429_proj51.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\C#\Tuần 5\LeVanHuy_2019602429_proj51\LeVanHuy_2019602429_proj51\bin\Debug\net5.0\LeVanHuy_2019602429_proj51.dll
+C:\Users\ADMIN\Documents\C#\Tuần 5\LeVanHuy_2019602429_proj51\LeVanHuy_2019602429_proj51\bin\Debug\net5.0\ref\LeVanHuy_2019602429_proj51.dll
+C:\Users\ADMIN\Documents\C#\Tuần 5\LeVanHuy_2019602429_proj51\LeVanHuy_2019602429_proj51\bin\Debug\net5.0\LeVanHuy_2019602429_proj51.pdb
+C:\Users\ADMIN\Documents\C#\Tuần 5\LeVanHuy_2019602429_proj51\LeVanHuy_2019602429_proj51\obj\Debug\net5.0\LeVanHuy_2019602429_proj51.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\C#\Tuần 5\LeVanHuy_2019602429_proj51\LeVanHuy_2019602429_proj51\obj\Debug\net5.0\LeVanHuy_2019602429_proj51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\C#\Tuần 5\LeVanHuy_2019602429_proj51\LeVanHuy_2019602429_proj51\obj\Debug\net5.0\LeVanHuy_2019602429_proj51.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\C#\Tuần 5\LeVanHuy_2019602429_proj51\LeVanHuy_2019602429_proj51\obj\Debug\net5.0\LeVanHuy_2019602429_proj51.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\C#\Tuần 5\LeVanHuy_2019602429_proj51\LeVanHuy_2019602429_proj51\obj\Debug\net5.0\LeVanHuy_2019602429_proj51.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\C#\Tuần 5\LeVanHuy_2019602429_proj51\LeVanHuy_2019602429_proj51\obj\Debug\net5.0\LeVanHuy_2019602429_proj51.dll
+C:\Users\ADMIN\Documents\C#\Tuần 5\LeVanHuy_2019602429_proj51\LeVanHuy_2019602429_proj51\obj\Debug\net5.0\ref\LeVanHuy_2019602429_proj51.dll
+C:\Users\ADMIN\Documents\C#\Tuần 5\LeVanHuy_2019602429_proj51\LeVanHuy_2019602429_proj51\obj\Debug\net5.0\LeVanHuy_2019602429_proj51.pdb
+C:\Users\ADMIN\Documents\C#\Tuần 5\LeVanHuy_2019602429_proj51\LeVanHuy_2019602429_proj51\obj\Debug\net5.0\LeVanHuy_2019602429_proj51.genruntimeconfig.cache
