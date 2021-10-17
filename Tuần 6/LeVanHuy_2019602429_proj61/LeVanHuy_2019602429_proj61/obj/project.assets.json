@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\C#\\Tuần 5\\LeVanHuy_2019602429_proj51\\LeVanHuy_2019602429_proj51\\LeVanHuy_2019602429_proj51.csproj",
-      "projectName": "LeVanHuy_2019602429_proj51",
-      "projectPath": "C:\\Users\\ADMIN\\Documents\\C#\\Tuần 5\\LeVanHuy_2019602429_proj51\\LeVanHuy_2019602429_proj51\\LeVanHuy_2019602429_proj51.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\C#\\Tuần 6\\LeVanHuy_2019602429_proj61\\LeVanHuy_2019602429_proj61\\LeVanHuy_2019602429_proj61.csproj",
+      "projectName": "LeVanHuy_2019602429_proj61",
+      "projectPath": "C:\\Users\\ADMIN\\Documents\\C#\\Tuần 6\\LeVanHuy_2019602429_proj61\\LeVanHuy_2019602429_proj61\\LeVanHuy_2019602429_proj61.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Documents\\C#\\Tuần 5\\LeVanHuy_2019602429_proj51\\LeVanHuy_2019602429_proj51\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Documents\\C#\\Tuần 6\\LeVanHuy_2019602429_proj61\\LeVanHuy_2019602429_proj61\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
