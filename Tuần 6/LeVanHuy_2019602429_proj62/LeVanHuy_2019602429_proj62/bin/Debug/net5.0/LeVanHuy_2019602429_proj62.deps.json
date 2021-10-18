@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LeVanHuy_2019602429_proj62/1.0.0": {
+        "runtime": {
+          "LeVanHuy_2019602429_proj62.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeVanHuy_2019602429_proj62/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
